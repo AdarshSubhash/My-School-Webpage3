@@ -1,0 +1,133 @@
+.header {
+    color: brown;
+    border: solid palegreen;
+    background-color:slateblue;
+}
+.menu{
+    border: solid bisque;
+    background-color:chartreuse;
+    display: flex;
+    justify-content: space-between;
+}
+.SchoolName{
+    border: solid seagreen;
+    background-color:chocolate;
+    font-style: italic;
+    display:flex ;
+    flex-wrap:wrap ;
+    justify-content:space-evenly ; 
+    
+}
+.texti{
+    border: solid chocolate;
+    background-color:chocolate;
+    font-style: oblique;
+}
+.himage{
+    border: solid chocolate;
+    background-color:chocolate;
+     display:flex ;
+    flex-wrap:wrap ;
+    justify-content:space-between;
+}
+.SC{
+    border: cyan;
+    background-color:orange;
+}
+.InformationSC{
+    border: solid;
+    background-color:blue;
+}
+.InSC{
+    border: solid;
+    background-color:coral;
+    font-style: oblique;
+}
+.SCimage{
+    border: solid;
+    background-color:coral;
+    display:flex ;
+    flex-wrap:wrap ;
+    justify-content:space-around;
+}
+.SCS{
+    border: cyan;
+    background-color:orange;
+}
+.InformationSCS{
+    border: solid;
+    background-color:blue;
+}
+.InSCS{
+    border: solid;
+    background-color:coral;
+    font-style: oblique;
+    
+}
+.SCSimage{
+    border: solid;
+    background-color:coral;
+    display:flex ;
+    flex-wrap:wrap ;
+    justify-content:space-around;
+}
+.SD{
+    border: cyan;
+    background-color:orange;
+}
+.InformationSD{
+    border: solid;
+    background-color:blue;
+}
+.InSD{
+    border: solid;
+    background-color:coral;
+    font-style: oblique;
+}
+.SDimage{
+    border: solid;
+    background-color:coral;
+    display:flex ;
+    flex-wrap:wrap ;
+    justify-content:space-around;
+}
+.R{
+    border: cyan;
+    background-color:orange;
+}
+.InformationR{
+    border: solid;
+    background-color:blue;
+}
+.InR{
+    border: solid;
+    background-color:coral;
+    font-style: oblique;
+}
+.Rimage{
+        border: solid;
+        background-color:coral;
+        display:flex ;
+        flex-wrap:wrap ;
+        justify-content:space-around;
+}
+.CH{
+    border: cyan;
+    background-color:orange;
+}
+.InformationCH{
+    border: solid;
+    background-color:blue;
+}
+.InCH{
+    border: solid;
+    background-color:coral;
+    font-style: oblique;  
+}
+.CHimage{
+    border: solid;
+    background-color:coral;
+    display:flex ;
+    flex-wrap:wrap ;
+    justify-content:space-evenly;
+}
